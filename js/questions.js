@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "qual foi o clube que ganhou o munial em 2012 ?",
+    answer: "Corinthians",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Corinthians",
+      "Palmeiras",
+      "Chealse",
+      "Santos"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual a seleção que ganhou mais copas ?",
+    answer: "Brasil",
     options: [
-      "Timor Lestet",
+      "Alemanha",
       "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Italia",
+      "Chile"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual o nome do rei do futebol Pelé?",
+    answer: "Edson Arantes do Nascimento",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Francisco Silva",
+      "Edson Arantes do Nascimento",
+      "Milton Nascimento",
+      "Galvão Bueno"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Quantos Paulistas tem o Corinthians?",
+    answer: "30",
     options: [
       "12",
-      "11",
-      "14",
-      "13"
+      "21",
+      "30",
+      "33"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual o maior ídolo da história do Corinthians?",
+    answer: "Cassio Ramos",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Neto",
+      "Danilo",
+      "Cassio Ramos",
+      "Roger Guedes"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
