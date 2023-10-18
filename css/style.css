@@ -12,7 +12,7 @@ body{
 }
 
 ::selection{
-    color: #fff;
+    color: #FFDAB9;
     background: #007bff;
 }
 
@@ -127,7 +127,7 @@ body{
     z-index: 2;
     height: 70px;
     padding: 0 30px;
-    background: #fff;
+    background: #EEE;
     border-radius: 5px 5px 0 0;
     display: flex;
     align-items: center;
