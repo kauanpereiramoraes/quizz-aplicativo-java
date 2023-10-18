@@ -17,7 +17,7 @@ let questions = [
     answer: "Brasil",
     options: [
       "Alemanha",
-      "Montenegro",
+      "Brasil",
       "Italia",
       "Chile"
     ]
